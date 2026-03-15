@@ -3,20 +3,31 @@
   <channel>
     <title>My Morning Briefing</title>
     <description>Daily financial news briefing</description>
-    <link>https://ajlaurencin.github.io/morning-podcast/</link>
+    <link>https://ajlaurencin.github.io/Morning-briefing/</link>
     <language>en-gb</language>
     <itunes:author>AJ</itunes:author>
     <itunes:owner>
       <itunes:name>AJ</itunes:name>
       <itunes:email>ajlaurencin@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://ajlaurencin.github.io/morning-podcast/podcast_cover.png"/>
+    <itunes:image href="https://ajlaurencin.github.io/Morning-briefing/podcast_cover.png"/>
     <image>
-      <url>https://ajlaurencin.github.io/morning-podcast/podcast_cover.png</url>
+      <url>https://ajlaurencin.github.io/Morning-briefing/podcast_cover.png</url>
       <title>Morning Briefing</title>
-      <link>https://ajlaurencin.github.io/morning-podcast/</link>
+      <link>https://ajlaurencin.github.io/Morning-briefing/</link>
     </image>
     <itunes:category text="News"/>
+    <item>
+      <title>Morning Briefing 2026-03-15</title>
+      <description>Good morning. It is Saturday, March 15th, 2026. Welcome to your morning financial briefing.
+
+We begin with the dominant story affecting global markets: the ongoing conflict between the United States and Iran, now entering its third week.
+
+President Trump stated that U.S. forces have, in his words, "obliterated" every military target on Kharg Island, Iran's primary oil export hub. The administration reports that energy infrastructure on the island was left intact. However, Iran has responded by r</description>
+      <enclosure url="https://ajlaurencin.github.io/Morning-briefing/podcast_2026-03-15.mp3" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 10:12:50 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/Morning-briefing/podcast_2026-03-15.mp3</guid>
+    </item>
     <item>
       <title>Morning Briefing 2026-03-15</title>
       <description>Good morning. Today is Saturday, March 15th, 2026. Welcome to your morning financial briefing.
@@ -28,6 +39,5 @@ President Trump stated that U.S. forces have, in his words, "obliterated" every 
       <pubDate>Sun, 15 Mar 2026 09:51:42 +0000</pubDate>
       <guid>https://ajlaurencin.github.io/morning-podcast/podcast_2026-03-15.mp3</guid>
     </item>
-    
   </channel>
 </rss>

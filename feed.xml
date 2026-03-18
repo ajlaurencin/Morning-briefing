@@ -18,6 +18,15 @@
     </image>
     <itunes:category text="News"/>
     <item>
+      <title>Morning Briefing 2026-03-18</title>
+      <description>Good morning. Today is Tuesday, March 17th, 2026. Welcome to your morning markets briefing.
+
+We begin with monetary policy and central banking. The Federal Reserve convenes this week facing a policy environment complicated by the ongoing conflict with Iran. For the fifth consecutive year, Federal Reserve officials find themselves expecting inflation to fall back to their two percent target only to be confronted with another disruption. The central question at this meeting is no longer when offic</description>
+      <enclosure url="https://ajlaurencin.github.io/Morning-briefing/podcast_2026-03-18.mp3" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Mar 2026 05:17:08 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/Morning-briefing/podcast_2026-03-18.mp3</guid>
+    </item>
+    <item>
       <title>Morning Briefing 2026-03-17</title>
       <description>Good morning. It is Monday, March 16th, 2026. Welcome to your morning briefing.
 
@@ -47,6 +56,5 @@ The Strait of Hormuz remains closed by Iran, creating significant disruption to 
       <pubDate>Sun, 15 Mar 2026 10:16:47 +0000</pubDate>
       <guid>https://ajlaurencin.github.io/Morning-briefing/podcast_2026-03-15.mp3</guid>
     </item>
-    
   </channel>
 </rss>

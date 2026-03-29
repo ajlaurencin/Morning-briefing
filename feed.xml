@@ -18,6 +18,17 @@
     </image>
     <itunes:category text="News"/>
     <item>
+      <title>Morning Briefing 2026-03-29</title>
+      <description>Good morning. It is Saturday, the 29th of March, 2026. Welcome to your morning briefing.
+
+We begin with the significant market developments of the past week, where the ongoing military conflict between the United States and Iran has become the dominant force shaping investor behaviour and asset prices across global markets.
+
+All three major US stock indices recorded their fourth consecutive week of declines, marking the worst percentage losses since the tariff-related market disruption in April.</description>
+      <enclosure url="https://ajlaurencin.github.io/Morning-briefing/podcast_2026-03-29.mp3" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Mar 2026 14:44:38 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/Morning-briefing/podcast_2026-03-29.mp3</guid>
+    </item>
+    <item>
       <title>Morning Briefing 2026-03-25</title>
       <description>Good morning. It is Tuesday, the 25th of March 2026. I'm your host, and this is your morning markets briefing.
 

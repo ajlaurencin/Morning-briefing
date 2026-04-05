@@ -18,6 +18,15 @@
     </image>
     <itunes:category text="News"/>
     <item>
+      <title>Morning Briefing 2026-04-05</title>
+      <description>Good morning. Today is Friday, April 4th, 2026. Welcome to your morning market briefing.
+
+We begin with the U.S. labor market. The March jobs report released yesterday showed the U.S. economy added 178,000 jobs, exceeding expectations. The Wall Street Journal's Nick Timiraos examined the significant volatility in recent employment data. According to his analysis, while the labor market continues to demonstrate resilience, the narrative has shifted from one of reacceleration to questions about po</description>
+      <enclosure url="https://ajlaurencin.github.io/Morning-briefing/podcast_2026-04-05.mp3" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Apr 2026 08:34:58 +0000</pubDate>
+      <guid>https://ajlaurencin.github.io/Morning-briefing/podcast_2026-04-05.mp3</guid>
+    </item>
+    <item>
       <title>Morning Briefing 2026-03-29</title>
       <description>Good morning. It is Saturday, the 29th of March, 2026. Welcome to your morning briefing.
 
